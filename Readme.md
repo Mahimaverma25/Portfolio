@@ -8,7 +8,7 @@ Welcome to my portfolio! This is a collection of my personal and professional wo
 * Services
 * Contact
 
-* About Me
+# About Me
  
 Hi! I'm [Mahima Verma], a passionate [Web Developer, Web Designer]. I specialize in [building dynamic web applications, developing scalable solutions, etc.]. My portfolio reflects the breadth of my skills and the depth of my commitment to delivering high-quality results.
 Feel free to explore the projects I have worked on. I hope this gives you a better idea of my capabilities and how I can contribute to your next project.
