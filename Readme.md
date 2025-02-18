@@ -23,9 +23,9 @@ In this portfolio, I have demonstrated my skills using a variety of technologies
 # Contact
 I'd love to hear from you! Whether you're interested in collaborating on a project, or you have any questions, feel free to get in touch with me.
 
-Email: work.mahimaverma@example.com
-LinkedIn: https://www.linkedin.com/in/mahima-verma-2887022a0
-GitHub: https://github.com/Mahimaverma25
+* Email: work.mahimaverma@example.com
+* LinkedIn: https://www.linkedin.com/in/mahima-verma-2887022a0
+* GitHub: https://github.com/Mahimaverma25
 
 # License
 This portfolio is open-source and available under the MIT License.
